@@ -1,4 +1,5 @@
 # Working with APIs and Nested Data Structures
+by Erin and Soundarya
 
 ## Objectives
 
