@@ -1,5 +1,5 @@
 # Working with APIs and Nested Data Structures
-
+authors : Erin and Soundarya :)
 ## Objectives
 
 1. Use Ruby to programmatically make a web request to the [Star Wars API](https://swapi.co/).
